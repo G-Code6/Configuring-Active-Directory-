@@ -23,5 +23,7 @@
 
 
 - Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall
+![Screenshot 2024-03-31 at 5 19 26 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/ed4301a6-9dee-4a5a-b334-613363b7a102)
+
 - Check back at Client-1 to see the ping succeed
 
