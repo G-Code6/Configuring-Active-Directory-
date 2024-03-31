@@ -35,3 +35,6 @@
 
 
 ![Screenshot 2024-03-31 at 6 24 32 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/8c39d6f0-1968-448c-bd43-73dccf45d1a8)
+![Screenshot 2024-03-31 at 6 26 26 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/f37c8575-2736-455e-99a7-98712979f134)
+
+
