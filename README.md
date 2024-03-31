@@ -33,3 +33,5 @@
 - Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
 - Restart and then log back into DC-1 as user: mydomain.com\labuser
 
+
+![Screenshot 2024-03-31 at 6 24 32 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/8c39d6f0-1968-448c-bd43-73dccf45d1a8)
