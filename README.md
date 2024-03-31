@@ -22,8 +22,14 @@
 ![Screenshot 2024-03-31 at 5 03 27 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/a399f013-2f29-4fa0-b4aa-6e7bce343f42)
 
 
-- Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall
+- Login to the Domain Controller and enable ICMPv4 in on the local Windows firewall
 ![Screenshot 2024-03-31 at 5 19 26 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/ed4301a6-9dee-4a5a-b334-613363b7a102)
 
 - Check back at Client-1 to see the ping succeed
+
+<h3>3. Install Active Directory:</h3> 
+
+- Login to DC-1 and install Active Directory Domain Services
+- Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
+- Restart and then log back into DC-1 as user: mydomain.com\labuser
 
