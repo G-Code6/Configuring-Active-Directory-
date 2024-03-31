@@ -16,3 +16,10 @@
 
 ![Screenshot 2024-03-31 at 2 58 34 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/0cf44a08-a730-420b-a592-d4ee5a7b9265)
 
+# Ensure Connectivity between the client and Domain Controller
+
+- Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping)
+- Login to the Domain Controller and enable ICMPv4 in on the local windows Firewall
+- Check back at Client-1 to see the ping succeed
+
+
