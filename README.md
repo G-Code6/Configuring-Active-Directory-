@@ -47,8 +47,7 @@
 - User jane_admin as your admin account from now on
 
 ![Image 4-1-24 at 7 27 PM (1)](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/a2ba4143-f332-4838-a03e-11e07259d97d)
-
-
+![Image 4-1-24 at 7 47 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/9a6769f5-6896-47ed-8be3-b29c3a4a42d0)
 
 <h3>5. Join Client-1 to your domain (mydomain.com):</h3>
 
