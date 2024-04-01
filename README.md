@@ -46,6 +46,10 @@
 - Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
 - User jane_admin as your admin account from now on
 
+![Image 4-1-24 at 7 27 PM (1)](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/a2ba4143-f332-4838-a03e-11e07259d97d)
+
+
+
 <h3>5. Join Client-1 to your domain (mydomain.com):</h3>
 
 - From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address
