@@ -46,6 +46,7 @@
 - Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
 - User jane_admin as your admin account from now on
 
+<h3>4. Join Client-1 to your domain (mydomain.com):</h3>
 
 
 
