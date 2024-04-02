@@ -30,7 +30,7 @@
 <h3>3. Install Active Directory:</h3> 
 
 - Login to DC-1 and install Active Directory Domain Services
-- Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
+- Promote as a DC: Setup a "New Forest" as mydomain.com (can be anything, just remember what it is)
 - Restart and then log back into DC-1 as user: mydomain.com\labuser
 
 
