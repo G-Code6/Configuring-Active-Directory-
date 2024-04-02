@@ -55,7 +55,7 @@
 - From the Azure Portal, restart Client-1
 - Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain (computer will restart)
 - Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the   root of the domain
-- Create a new OU named “_CLIENTS” and drag Client-1 into there (Step is not really necessary, just for organizational purposes. I guess I skipped this in the lab!)
+- Create a new OU named “_CLIENTS” and drag Client-1 into there
 
 
 
