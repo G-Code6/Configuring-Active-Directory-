@@ -69,7 +69,16 @@
 ![Screenshot 2024-04-01 at 8 45 09 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/c2eff8f4-2bc9-4d39-9ebd-bc786667d9d4)
 ![Screenshot 2024-04-01 at 8 57 28 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/ff5aecb1-042e-4954-bf80-d6a1ee33b50b)
 
-<h3>7. Create a bunch of additional users and attempt to log into client-1 with one of the users
-</h3>
+<h3>7. Create a bunch of additional users and attempt to log into client-1 with one of the users</h3>
+
+- Login to DC-1 as jane_admin
+- Open PowerShell_ise as an administrator
+- Create a new File and paste the contents of the script into it
+- (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
+- Run the script and observe the accounts being created
+- When finished, open ADUC and observe the accounts in the appropriate OU
+- Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+
+
 
 
