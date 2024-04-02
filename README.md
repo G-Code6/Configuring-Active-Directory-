@@ -59,6 +59,13 @@
 
 ![Image 4-1-24 at 8 15 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/58b2ab6f-1418-45a8-9ffe-4b5685a552f6)
 
+<h3>6. Setup Remote Desktop for non-administrative users on Client-1</h3>
+
+- Log into Client-1 as mydomain.com\jane_admin and open system properties
+- Click “Remote Desktop”
+- Allow “domain users” access to remote desktop
+- You can now log into Client-1 as a normal, non-administrative user now
+
 
 
 
