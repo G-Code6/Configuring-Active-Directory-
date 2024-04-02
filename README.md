@@ -57,6 +57,8 @@
 - Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the   root of the domain
 - Create a new OU named “_CLIENTS” and drag Client-1 into there
 
+![Image 4-1-24 at 8 15 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/58b2ab6f-1418-45a8-9ffe-4b5685a552f6)
+
 
 
 
