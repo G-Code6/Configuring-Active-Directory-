@@ -66,6 +66,7 @@
 - Allow “domain users” access to remote desktop
 - You can now log into Client-1 as a normal, non-administrative user now
 
+![Screenshot 2024-04-01 at 8 45 09 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/c2eff8f4-2bc9-4d39-9ebd-bc786667d9d4)
 
 
 
