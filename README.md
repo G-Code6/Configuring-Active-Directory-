@@ -79,6 +79,8 @@
 - When finished, open ADUC and observe the accounts in the appropriate OU
 - Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 
+![Screenshot 2024-04-02 at 8 42 07 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/11b6c518-c041-4c1f-bab6-a1a506c9978f)
+![Screenshot 2024-04-02 at 8 55 58 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/695bb037-3d16-4747-89fc-3aa84f7a1ca6)
 
 
 
