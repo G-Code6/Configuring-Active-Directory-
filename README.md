@@ -19,6 +19,8 @@
 <h3>2. Ensure Connectivity between the client and Domain Controller:</h3>
 
 - Login to Client-1 with Remote Desktop and ping DC-1’s private IP address with ping -t <ip address> (perpetual ping)
+
+
 ![Screenshot 2024-03-31 at 5 03 27 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/a399f013-2f29-4fa0-b4aa-6e7bce343f42)
 
 
