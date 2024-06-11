@@ -22,7 +22,7 @@
 - Windows PowerShell ISE
 - Command Prompt
 
-
+<h3>Step-by-Step Guide</h3> 
 <h3>1. Azure Subscription:</h3> 
 
 - Ensure you have an active Azure subscription. If not, sign up for one.
