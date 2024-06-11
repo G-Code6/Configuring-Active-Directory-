@@ -1,6 +1,6 @@
 ![Screenshot 2024-03-31 at 1 32 39 PM](https://github.com/G-Code6/Configuring-Active-Directory./assets/163748328/9eba4a1a-b462-40f2-9425-4ab924743cb6)
 
-# Configuring Active Directory Step by Step Tutorial
+# Configuring Active Directory Step-by-Step Tutorial
 
 <h3> Prerequisites:</h3>
 
@@ -14,6 +14,13 @@
 <h2>Operating Systems Used </h2>
 
 - Windows 10 / MacOs </b> 
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Computer)
+- Remote Desktop
+- Windows PowerShell ISE
+- Command Prompt
 
 
 <h3>1. Azure Subscription:</h3> 
